@@ -12,7 +12,20 @@ Hidden .git folder gets created within the folder from where this command is exe
 The .git folder is the local git repository that tracks the containing folder for any changes.
 *************************************************************************************************************
 
-2. 
+2.Add a file to staging area
 
+Command:
+git add <file>
 
+Impact:
+File with changes gets copied from working directory to staging area.
+************************************************************************************************************* 
 
+3. Add a file to local git repo
+
+Command:
+git commit -m "commit message"
+
+Impact:
+File with changes gets copied from staging area to local git repo.
+************************************************************************************************************* 
