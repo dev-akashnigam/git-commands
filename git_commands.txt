@@ -1,0 +1,18 @@
+*************************************************************************************************************
+ LIST OF GIT COMMANDS
+*************************************************************************************************************
+
+1. Convert project folder to git repository
+
+Command:
+git init
+
+Impact:
+Hidden .git folder gets created within the folder from where this command is executed.
+The .git folder is the local git repository that tracks the containing folder for any changes.
+*************************************************************************************************************
+
+2. 
+
+
+
