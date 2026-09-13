@@ -21,5 +21,11 @@ Impact:
 File with changes gets copied from working directory to staging area.
 ************************************************************************************************************* 
 
+3. Add a file to local git repo
 
+Command:
+git commit -m "commit message"
 
+Impact:
+File with changes gets copied from staging area to local git repo.
+************************************************************************************************************* 
